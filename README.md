@@ -4,4 +4,4 @@ This repository contains anything related to Juice security (excluding code) –
 
 ## Incidents
 
-1. [08-18-2021.md](incidents/08-18-2021.md)
+1. [Low severity bug discovered: 8-18-2021](incidents/08-18-2021.md)
